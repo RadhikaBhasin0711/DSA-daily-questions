@@ -18,6 +18,9 @@ In the helper:
 Call solve(root, ans, 0) from the main function.
 Return the ans vector.
 
+Time Complexity- O(n)
+Space complexity- O(h)
+
 2. Lexicographically Smallest Palindrome - LeetCode 2697
 
 Difficulty- Easy
@@ -34,3 +37,6 @@ While i < j, do the following:
     Replace s[i] and s[j] with the smaller of the two characters: s[i] = s[j] = min(s[i], s[j]).
     Increment i and decrement j.
 After the loop ends, return the modified string s.
+
+Time Complexity- O(n)
+Space complexity- O(1)
