@@ -15,7 +15,7 @@ Recursively find the depth of the right subtree.
 Take the maximum of the two depths and add 1 (for the current node).
 Return the result.
 
-2. Flipping an Image - LeetCode 832
+ii. Flipping an Image - LeetCode 832
 
 Difficulty- Easy
 
