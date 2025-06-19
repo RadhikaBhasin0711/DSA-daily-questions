@@ -21,7 +21,7 @@ Return prev (new head of the reversed list)
 Time Complexity- O(n)
 Space complexity- O(1)
 
-2. Missing Number - LeetCode 286
+2. Missing Number - LeetCode 268
 
 Difficulty- Easy
 
